@@ -1,0 +1,176 @@
+#Layer1 {
+	position:absolute;
+	width:1328px;
+	height:161px;
+	z-index:1;
+	top: 19px;
+	left: 14px;
+}
+#Layer2 {
+	position:absolute;
+	width:1338px;
+	height:46px;
+	z-index:1;
+	top: 192px;
+	left: -2px;
+}
+#Layer3 {
+	position:absolute;
+	width:237px;
+	height:454px;
+	z-index:2;
+	left: -2px;
+	top: 244px;
+}
+#Layer4 {
+	position:absolute;
+	width:796px;
+	height:452px;
+	z-index:2;
+	left: 255px;
+	top: 263px;
+}
+#Layer5 {
+	position:absolute;
+	width:287px;
+	height:451px;
+	z-index:1;
+	left: 803px;
+	top: 1px;
+}
+#Layer6 {
+	position:absolute;
+	width:1338px;
+	height:94px;
+	z-index:3;
+	left: -1px;
+	top: 702px;
+}
+#Layer7 {
+	position:absolute;
+	width:1335px;
+	height:73px;
+	z-index:1;
+	left: 1px;
+	top: 86px;
+}
+#Layer8 {
+	position:absolute;
+	width:225px;
+	height:163px;
+	z-index:3;
+	background-repeat:no-repeat;
+	left: -1px;
+	top: -7px;
+}
+#Layer9 {
+	position:absolute;
+	width:1117px;
+	height:54px;
+	z-index:3;
+	left: 222px;
+	top: -7px;
+}
+#Layer8 table
+{
+background-repeat:no-repeat;
+
+}
+#Layer6 table
+{
+
+
+
+}
+#Layer10 {
+	position:absolute;
+	width:1112px;
+	height:109px;
+	z-index:3;
+	left: 225px;
+	top: 47px;
+}
+#Layer11 {
+	position:absolute;
+	width:1334px;
+	height:37px;
+	z-index:3;
+	left: 3px;
+	top: 669px;
+}
+
+
+
+
+
+
+    body {
+        margin:0;
+        padding:0;
+        font: bold 11px/1.5em Verdana;
+}
+
+h2 {
+        font: bold 14px Verdana, Arial, Helvetica, sans-serif;
+        color: #000;
+        margin: 0px;
+        padding: 0px 0px 0px 15px;
+}
+
+img {
+border: none;
+}
+
+/*- Menu Tabs 10--------------------------- */
+
+    #tabs10 {
+      float:right;
+      width:75%;
+      font-size:93%;
+          border-bottom:1px solid #2763A5;
+      line-height:normal;
+      }
+    #tabs10 ul {
+          margin:0;
+          padding:10px 10px 0 50px;
+          list-style:none;
+      }
+    #tabs10 li {
+      display:inline;
+      margin:0;
+      padding:0;
+      }
+    #tabs10 a {
+      float:left;
+      background:url("tableft10.gif") no-repeat left top;
+      margin:0;
+      padding:0 0 0 4px;
+      text-decoration:none;
+      }
+    #tabs10 a span {
+      float:left;
+      display:block;
+      background:url("student/tabright10.gif") no-repeat right top;
+      padding:5px 15px 4px 6px;
+      color:#FFF;
+      }
+    /* Commented Backslash Hack hides rule from IE5-Mac \*/
+    #tabs10 a span {float:none;}
+    /* End IE5-Mac hack */
+    #tabs9 a:hover span {
+      color:#FFF;
+      }
+    #tabs10 a:hover {
+      background-position:0% -42px;
+      }
+    #tabs10 a:hover span {
+      background-position:100% -42px;
+      }
+
+      #tabs10 #current a {
+              background-position:0% -42px;
+      }
+      #tabs10 #current a span {
+              background-position:100% -42px;
+      }
+-->

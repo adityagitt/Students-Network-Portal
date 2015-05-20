@@ -1,0 +1,21 @@
+#account
+{
+    width:30%;
+}
+#account th
+{
+    background-color: #9cbdde;
+    color: white;
+    font-family: cambria;
+}
+#account td
+{
+    font-family: cambria;
+    padding-left: 5px;
+    background-color: #dedede;
+}
+#account tr.alt td
+{
+    font-family: cambria;
+    background-color: #9cbdde;
+}
